@@ -2,12 +2,12 @@ importScripts('https://www.gstatic.com/firebasejs/4.4.0/firebase-app.js');
 importScripts('https://www.gstatic.com/firebasejs/4.4.0/firebase-messaging.js');
 
 var config = {
-apiKey: "AIzaSyAXK4Orxl2CghIQvKiUPtkhEngSgzteqE0",
-authDomain: "hello-world-pwa-8669c.firebaseapp.com",
-databaseURL: "https://hello-world-pwa-8669c.firebaseio.com",
-projectId: "hello-world-pwa-8669c",
-storageBucket: "hello-world-pwa-8669c.appspot.com",
-messagingSenderId: "660239288739"
+    apiKey: "AIzaSyBcYsxT9Fcppqgll7bsPOQjEWHw8R3LmgM",
+    authDomain: "pwa-hello-4f0ad.firebaseapp.com",
+    databaseURL: "https://pwa-hello-4f0ad.firebaseio.com",
+    projectId: "pwa-hello-4f0ad",
+    storageBucket: "pwa-hello-4f0ad.appspot.com",
+    messagingSenderId: "603222636622"
 };
 firebase.initializeApp(config);
 
